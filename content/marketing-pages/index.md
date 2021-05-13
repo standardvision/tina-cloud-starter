@@ -1,14 +1,9 @@
 ---
 blocks:
   - template: message
-    messageHeader: Welcome to the Tina Cloud Starter
+    messageHeader: This is the welcome section
     messageBody: >
-      The Tina Cloud project is an opinionated approach to working with the
-      TinaCMS system that enables you to focus on building sites the way you're
-      already used to. To that end, we've developed a GraphL API which allows
-      you to define a schema for your filesystem. Once you've defined a schema,
-      all you need to do is run a query against it, we'll look at that query and
-      build your Tina forms for you automatically.
+      This is the responsive message body.
 
 
       We've given you a couple of files and a very basic schema to get you

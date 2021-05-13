@@ -1,6 +1,6 @@
 ---
-title: Vote For Pedro
-author: content/authors/napolean.md
+title: Vote For Pedro!
+author: content/authors/pedro.md
 _template: article
 ---
 
